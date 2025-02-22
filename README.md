@@ -26,7 +26,7 @@
 
 
 ## 📫 Onde me encontrar / Where to find me
-📩 [E-mail](felipe.x.macedo@gmail.com)
+📩 [E-mail](mailto:felipe.x.macedo@gmail.com)
 
 ---
 ✍️ *"Sempre aprendendo e construindo!"* / *"Always learning and building!"*
