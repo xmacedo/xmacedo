@@ -2,6 +2,8 @@
 
 [![LinkedIn: felipexmacedo](https://img.shields.io/badge/-Felipe%20Macedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipexmacedo/)](https://www.linkedin.com/in/felipexmacedo/)
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=xmaedo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 ## 🚀 Sobre mim / About me
 🇧🇷 Atualmente sou consultor(PJ) e trabalho como arquiteto de soluções e de software, sou apaixonado por tecnologia. Sempre buscando aprimorar minhas habilidades e criar projetos inovadores.
 - Sou bacharel em Ciências da computação pela Faculdade Unirriter/RS
@@ -23,6 +25,8 @@
 ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+
+
 
 
 ## 📫 Onde me encontrar / Where to find me
