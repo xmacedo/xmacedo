@@ -2,7 +2,7 @@
 
 [![LinkedIn: felipexmacedo](https://img.shields.io/badge/-Felipe%20Macedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipexmacedo/)](https://www.linkedin.com/in/felipexmacedo/)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=xmaedo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=xmacedo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ## 🚀 Sobre mim / About me
 🇧🇷 Atualmente sou consultor(PJ) e trabalho como arquiteto de soluções e de software, sou apaixonado por tecnologia. Sempre buscando aprimorar minhas habilidades e criar projetos inovadores.
