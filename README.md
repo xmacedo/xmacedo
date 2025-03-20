@@ -1,36 +1,51 @@
-# 👋 Olá! Eu sou o Felipe Macedo / Hello! I'm Felipe Macedo
+# 👋 Felipe Macedo
 
-[![LinkedIn: felipexmacedo](https://img.shields.io/badge/-Felipe%20Macedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipexmacedo/)](https://www.linkedin.com/in/felipexmacedo/)
+[![LinkedIn:felipexmacedo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipexmacedo/)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=xmacedo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-## 🚀 Sobre mim / About me
-🇧🇷 Atualmente sou consultor(PJ) e trabalho como arquiteto de soluções e de software, sou apaixonado por tecnologia. Sempre buscando aprimorar minhas habilidades e criar projetos inovadores.
+## 🚀 
+🇧🇷 Trabalhando como consultor(PJ) como arquiteto de soluções e de software, sou apaixonado por tecnologia. Sempre buscando aprimorar minhas habilidades e criar projetos inovadores.
 - Sou bacharel em Ciências da computação pela Faculdade Unirriter/RS
 - Estou cursando Pós Graduação em Arquitetura de Software, Arquitetura de Soluções e Inteligência Artifical na [XP Educação](https://www.xpeducacao.com.br/)
 - Estou cursando Pós Graduação em Arquitetura de Software, Arquitetura de Soluções e Inteligência Artifical na [PUC-PR](https://www.pucpr.br/)
 
-🇺🇸 I currently work as a consultant (contractor) as a solutions and software architect. I'm passionate about technology, always looking to improve my skills and create innovative projects.
+🇺🇸 I working at consultant (contractor) as a solutions and software architect. I'm passionate about technology, always looking to improve my skills and create innovative projects.
 - I have a Bachelor's degree in Computer Science from [Faculdade Uniritter/RS](https://www.uniritter.edu.br/)
 - I'm currently pursuing a Postgraduate degree in Software Architecture, Solution Architecture, and Artificial Intelligence at [XP Educação](https://www.xpeducacao.com.br/)
 - I'm currently pursuing a Postgraduate degree in Software Architecture, Solution Architecture, and Artificial Intelligence at [PUC-PR](https://www.pucpr.br/)
 
 
-## 💻 Tecnologias e Ferramentas / Technologies & Tools
+## 💻 Tech & Tools
+
+###  [👩‍💻 Languages](#-languages-)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2300C853.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+
+### Cloud providers
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Google](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+### Databases
 ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-
+![Elastic](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 
 ## 📫 Onde me encontrar / Where to find me
 📩 [E-mail](mailto:felipe.x.macedo@gmail.com)
+[![LinkedIn:felipexmacedo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipexmacedo/)
 
 ---
 ✍️ *"Sempre aprendendo e construindo!"* / *"Always learning and building!"*
