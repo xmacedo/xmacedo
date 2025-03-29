@@ -5,21 +5,20 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=xmacedo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ## 🚀 
-🇧🇷 Trabalhando como consultor(PJ) como arquiteto de soluções e de software, sou apaixonado por tecnologia. Sempre buscando aprimorar minhas habilidades e criar projetos inovadores.
-- Sou bacharel em Ciências da computação pela Faculdade Unirriter/RS
-- Estou cursando Pós Graduação em Arquitetura de Software, Arquitetura de Soluções e Inteligência Artifical na [XP Educação](https://www.xpeducacao.com.br/)
-- Estou cursando Pós Graduação em Arquitetura de Software, Arquitetura de Soluções e Inteligência Artifical na [PUC-PR](https://www.pucpr.br/)
+🇧🇷 Trabalhando como consultor(PJ) como arquiteto de soluções e de software, apaixonado por tecnologia. Sempre buscando aprimorar minhas habilidades e criar projetos inovadores.
+- Bacharel em Ciências da computação - [Uniritter/RS](https://www.uniritter.edu.br/)
+- Cursando Pós Graduação em Arquitetura de Software, Arquitetura de Soluções e Inteligência Artifical - [XP Educação](https://www.xpeducacao.com.br/)
+- Cursando Pós Graduação em Arquitetura de Software, Arquitetura de Soluções e Inteligência Artifical - [PUC-PR](https://www.pucpr.br/)
 
 🇺🇸 I working at consultant (contractor) as a solutions and software architect. I'm passionate about technology, always looking to improve my skills and create innovative projects.
-- I have a Bachelor's degree in Computer Science from [Faculdade Uniritter/RS](https://www.uniritter.edu.br/)
-- I'm currently pursuing a Postgraduate degree in Software Architecture, Solution Architecture, and Artificial Intelligence at [XP Educação](https://www.xpeducacao.com.br/)
-- I'm currently pursuing a Postgraduate degree in Software Architecture, Solution Architecture, and Artificial Intelligence at [PUC-PR](https://www.pucpr.br/)
+- Bachelor's degree in Computer Science - [Uniritter/RS](https://www.uniritter.edu.br/)
+- [In progress] Postgraduate degree in Software Architecture, Solution Architecture, and Artificial Intelligence - [XP Educação](https://www.xpeducacao.com.br/)
+- [In progress] Postgraduate degree in Software Architecture, Solution Architecture, and Artificial Intelligence - [PUC-PR](https://www.pucpr.br/)
 
 
 ## 💻 Tech & Tools
 
 ###  [👩‍💻 Languages](#-languages-)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2300C853.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -28,7 +27,6 @@
 ![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
 ### Cloud providers
-
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Google](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -41,9 +39,12 @@
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### Certificações / Certificates / Badges
+- [GitHub Foundations](https://www.credly.com/badges/ad341dca-127a-407c-92be-9bc8e689a53e/print)
+- [AWS Academy Graduate - AWS Academy Cloud Foundation](https://www.credly.com/badges/0619292c-f312-485e-9a99-8d40130ec35d/linked_in_profile)
+- Orquestra Certified Technician - OCT
 
-
-## 📫 Onde me encontrar / Where to find me
+## 📫 
 📩 [E-mail](mailto:felipe.x.macedo@gmail.com)
 [![LinkedIn:felipexmacedo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipexmacedo/)
 
