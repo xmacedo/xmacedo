@@ -10,12 +10,12 @@
 🇧🇷 Trabalhando como consultor(PJ) como arquiteto de soluções e de software, apaixonado por tecnologia. Sempre buscando aprimorar minhas habilidades e criar projetos inovadores.
 - Bacharel em Ciências da computação - [Uniritter/RS](https://www.uniritter.edu.br/)
 - Cursando Pós Graduação em Arquitetura de Software, Arquitetura de Soluções e Inteligência Artifical - [XP Educação](https://www.xpeducacao.com.br/)
-- Cursando Pós Graduação em Arquitetura de Software, Arquitetura de Soluções e Inteligência Artifical - [PUC-PR](https://www.pucpr.br/)
+- Cursando Pós Graduação em Arquitetura de Soluções: Aplicações Inteligentes e Estratégicas - [PUC-PR](https://www.pucpr.br/)
 
 🇺🇸 I working at consultant (contractor) as a solutions and software architect. I'm passionate about technology, always looking to improve my skills and create innovative projects.
 - Bachelor's degree in Computer Science - [Uniritter/RS](https://www.uniritter.edu.br/)
 - [In progress] Postgraduate degree in Software Architecture, Solution Architecture, and Artificial Intelligence - [XP Educação](https://www.xpeducacao.com.br/)
-- [In progress] Postgraduate degree in Software Architecture, Solution Architecture, and Artificial Intelligence - [PUC-PR](https://www.pucpr.br/)
+- [In progress] Postgraduate degree in Solution Architecture: Smart and Strategic Applications - [PUC-PR](https://www.pucpr.br/)
 
 
 ## 💻 Tech & Tools
