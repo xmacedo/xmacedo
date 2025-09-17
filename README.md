@@ -8,8 +8,8 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xmacedo&show_icons=true&theme=dark#gh-dark-mode-only"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=xmacedo&theme=dark&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmacedo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=xmacedo&theme=dark&hide_border=true"/>
 </div>
 
 ## 🚀 
