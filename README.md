@@ -17,13 +17,13 @@
 - Bacharel em Ciências da computação - [Uniritter/RS](https://www.uniritter.edu.br/)
 - Pós Graduado em Arquitetura de Soluções: Aplicações Inteligentes e Estratégicas - [PUC-PR](https://www.pucpr.br/)
 - Pós Graduado em Arquitetura de Software e Arquitetura de Soluções - [XP Educação](https://www.xpeducacao.com.br/)
-- Cursando Pós Graduação em Arquitetura de Soluções de Inteligência Artifical - [XP Educação](https://www.xpeducacao.com.br/)
+- Pós Graduado em Arquitetura de Soluções de Inteligência Artifical - [XP Educação](https://www.xpeducacao.com.br/)
 
 🇺🇸 I working at consultant (contractor) as a solutions and software architect. I'm passionate about technology, always looking to improve my skills and create innovative projects.
 - Bachelor's degree in Computer Science - [Uniritter/RS](https://www.uniritter.edu.br/)
 - Postgraduate degree in Solution Architecture: Smart and Strategic Applications - [PUC-PR](https://www.pucpr.br/)
 - Postgraduate degree in Software Architecture and Solution Architecture - [XP Educação](https://www.xpeducacao.com.br/)
-- [In progress] Postgraduate degree in Solution Architecture with Artifical Inteligence - [XP Educação](https://www.xpeducacao.com.br/)
+- Postgraduate degree in Solution Architecture with Artifical Inteligence - [XP Educação](https://www.xpeducacao.com.br/)
 
 
 
